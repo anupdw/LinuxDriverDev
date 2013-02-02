@@ -1,0 +1,1 @@
+cmd_/home/anup/workspace/LinuxDriverDev/part5/ofd.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-5-common/scripts/module-common.lds --build-id -o /home/anup/workspace/LinuxDriverDev/part5/ofd.ko /home/anup/workspace/LinuxDriverDev/part5/ofd.o /home/anup/workspace/LinuxDriverDev/part5/ofd.mod.o
